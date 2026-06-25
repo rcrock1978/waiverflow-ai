@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+structlog>=24.4
+azure-ai-formrecognizer>=3.3
+openai>=1.50
+pydantic>=2.10
+python-multipart>=0.0.18

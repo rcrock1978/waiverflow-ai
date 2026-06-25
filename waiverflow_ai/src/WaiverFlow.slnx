@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="WaiverFlow.Api/WaiverFlow.Api.csproj" />
+  <Project Path="WaiverFlow.Collaboration/WaiverFlow.Collaboration.csproj" />
+  <Project Path="WaiverFlow.Compliance/WaiverFlow.Compliance.csproj" />
+  <Project Path="WaiverFlow.DocumentRequests/WaiverFlow.DocumentRequests.csproj" />
+  <Project Path="WaiverFlow.Reporting/WaiverFlow.Reporting.csproj" />
+  <Project Path="WaiverFlow.Shared/WaiverFlow.Shared.csproj" />
+  <Project Path="WaiverFlow.Validation/WaiverFlow.Validation.csproj" />
+</Solution>

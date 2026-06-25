@@ -1,0 +1,6 @@
+@WaiverFlow.Collaboration_HostAddress = http://localhost:5043
+
+GET {{WaiverFlow.Collaboration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

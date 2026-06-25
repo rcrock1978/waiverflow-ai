@@ -1,0 +1,6 @@
+@WaiverFlow.Compliance_HostAddress = http://localhost:5121
+
+GET {{WaiverFlow.Compliance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

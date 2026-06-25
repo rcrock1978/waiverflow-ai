@@ -1,0 +1,24 @@
+WAIVER REQUEST (gentle):
+  Subject: Reminder: Lien Waiver Request for {ProjectName}
+  Body: Hi {SubName}, this is a gentle reminder that your lien waiver for {ProjectName}
+         (due {DueDate}) has not yet been returned. Please upload the signed waiver here: {Link}
+
+WAIVER FOLLOW-UP (firm):
+  Subject: URGENT: Overdue Lien Waiver — {ProjectName}
+  Body: Hi {SubName}, your signed lien waiver for {ProjectName} is now {DaysOverdue} days
+         overdue. Please submit it immediately to avoid payment delays. {Link}
+
+WAIVER ESCALATION (GC alert):
+  Subject: ACTION REQUIRED: Waiver Overdue — {SubName}
+  Body: {SubName}'s lien waiver for {ProjectName} is {DaysOverdue} days overdue and requires
+         your direct intervention. Outstanding waiver: {WaiverId}. Contact: {SubContact}.
+
+COI RENEWAL REMINDER:
+  Subject: COI Expiring Soon — {SubName}
+  Body: Your certificate of insurance for {ProjectName} expires in {DaysUntilExpiry} days.
+         Please upload a renewed COI to avoid compliance issues. Upload: {Link}
+
+VALIDATION FAILURE:
+  Subject: Document Validation Failed — {ProjectName}
+  Body: Your signed waiver for {ProjectName} could not be validated. Issues: {Errors}.
+         Please correct and re-upload: {Link}
