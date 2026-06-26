@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaiverFlow.DocumentRequests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b009cbcb071c86fe3baba8b04eef69dcbe7ce29f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaiverFlow.DocumentRequests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaiverFlow.DocumentRequests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
